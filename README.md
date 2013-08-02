@@ -4,8 +4,9 @@ This project was initialized by Creeten on CodeCademy in the group called The Op
 
 The storyline and code will be found soon in this Repository.
 
-I kindly request coders to put their code for each chapter in a separate branch.
-Please don't start coding untill your part of the storyline has been written and the main core of the game has been established.
+Coders, put your code for each chapter in the correct chapter files.
+
+Storyline writers please put your story's in the right chapter files as well.
 
 
 
