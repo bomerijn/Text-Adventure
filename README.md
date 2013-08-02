@@ -10,9 +10,10 @@ Please don't start coding untill your part of the storyline has been written and
 
 
 
-The peeps working on this project:
+The peeps working on this project(displayed as by their Codecademy names):
 
-
+Initiator:
+Creeten
 
 
 Storyline:
@@ -20,3 +21,4 @@ Storyline:
 
 
 Coding:
+bomerijn
